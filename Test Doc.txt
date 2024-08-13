@@ -1,4 +1,7 @@
 make a change
 
+<<<<<<< Updated upstream
 change 2
+=======
 change 3
+>>>>>>> Stashed changes
